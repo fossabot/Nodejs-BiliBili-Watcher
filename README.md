@@ -41,11 +41,15 @@ mkdir workspace
 cd workspace
 git clone https://github.com/NekokeCore/Nodejs-BiliBili-Watcher
 ```
-
-3. 修改相关配置（本项目以叶笙为例子）
-
+3. 初始化项目
 ```
 cd Nodejs-BiliBili-Watcher/Watcher/Kanasho
+npm install md5 --save
+```
+
+4. 修改相关配置（本项目以叶笙为例子）
+
+```
 nano Kanasho.sh
 # 修改 SESSDATA=XXXXXXXXXXXXXXXXXX 为你的账户 Cookie
 # 方法为: 
