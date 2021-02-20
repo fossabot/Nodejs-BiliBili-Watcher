@@ -1,4 +1,6 @@
 # Nodejs-BiliBili-Watcher
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNekokeCore%2FNodejs-BiliBili-Watcher.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNekokeCore%2FNodejs-BiliBili-Watcher?ref=badge_shield)
+
 
 ## 简介
   一个轻量的基于B站API和Nodejs的B站观察者
@@ -126,3 +128,6 @@ echo "关注数:$attention"
 社会易姐QAQ的[B站API](https://github.com/SocialSisterYi/bilibili-API-collect)
 
 [Tony32](https://github.com/TTTTTony32)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNekokeCore%2FNodejs-BiliBili-Watcher.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNekokeCore%2FNodejs-BiliBili-Watcher?ref=badge_large)
