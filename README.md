@@ -1,7 +1,7 @@
 # Nodejs-BiliBili-Watcher
 
 ## 简介
-  一个清量的基于B站API和Nodejs的B站观察者
+  一个轻量的基于B站API和Nodejs的B站观察者
 
 ## 特点
 1. 轻量
